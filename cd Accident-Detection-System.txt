@@ -1,0 +1,3 @@
+cd Accident-Detection-System
+python main.py
+python maindemo.py
